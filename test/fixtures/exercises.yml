@@ -2,20 +2,12 @@
 
 one:
   name: MyString
-  string: MyString
-  sets: MyString
-  integer: MyString
-  reps: MyString
-  integer: MyString
-  workout: MyString
-  references: MyString
+  sets: 1
+  reps: 1
+  workout: one
 
 two:
   name: MyString
-  string: MyString
-  sets: MyString
-  integer: MyString
-  reps: MyString
-  integer: MyString
-  workout: MyString
-  references: MyString
+  sets: 1
+  reps: 1
+  workout: two
